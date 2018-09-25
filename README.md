@@ -7,6 +7,7 @@
 ## Software Development
 - [Code Europe](https://www.codeeurope.pl/pl) - Warszawa, PL; Wrocław, PL; Kraków, PL; Poznań, PL;
 - [Code::dive](http://codedive.pl) - Wrocław, PL;
+- [DevConf](http://devconf.pl) - Kraków, PL;
 
 ## C++
 - [CppCon](https://cppcon.org) - Bellevue, WA.
