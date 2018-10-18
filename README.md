@@ -13,6 +13,7 @@
 - [CppCon](https://cppcon.org) - Bellevue, WA.
 - [emBO++](https://www.embo.io/) - Bochum, DE.
 - [C++ on Sea](https://cpponsea.uk/index.html) - Flokestone, UK.
+- [PacifiC++](https://pacificplusplus.com/) - Sydney, AU
 
 ### Cloud
 - KubeCon + CloudNativeCon EU
