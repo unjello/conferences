@@ -14,6 +14,7 @@
 - [emBO++](https://www.embo.io/) - Bochum, DE.
 - [C++ on Sea](https://cpponsea.uk/index.html) - Flokestone, UK.
 - [PacifiC++](https://pacificplusplus.com/) - Sydney, AU
+- [Meeting C++](http://meetingcpp.com/) - Berlin, DE
 
 ### Cloud
 - KubeCon + CloudNativeCon EU
