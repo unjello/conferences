@@ -10,8 +10,8 @@
 - [DevConf](http://devconf.pl) - Kraków, PL;
 
 ## C++
-- [CppCon](https://cppcon.org) - Bellevue, WA.
-- [emBO++](https://www.embo.io/) - Bochum, DE.
+- [CppCon](https://cppcon.org) - Bellevue, WA - September
+- [emBO++](https://www.embo.io/) - Bochum, DE - March
 - [C++ on Sea](https://cpponsea.uk/index.html) - Flokestone, UK - February
 - [PacifiC++](https://pacificplusplus.com/) - Sydney, AU - October
 - [Meeting C++](http://meetingcpp.com/) - Berlin, DE - November
